@@ -2,7 +2,7 @@
 My name is Viet Nguyen. I am a Senior AI engineer at Sporttotal. I am interested in the following topics: Deep Learning for Computer Vision, LLM, Reinforcement Learning.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/diacode1919/) [![Youtube]
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)]   [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/diacode1919/) [![Youtube](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvudigital.co%2Flogo-youtube-lich-su-va-y-nghia-thu-vi-cua-nen-tang-phat-video-tu-2005.html&psig=AOvVaw2qk0hTNffazD_ZDs_rdTBq&ust=1754299544772000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODR4Jup7o4DFQAAAAAdAAAAABAE)]
 
 
 
