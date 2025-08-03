@@ -1,90 +1,21 @@
-### WELCOME TO MY PAGE 👋👋👋
-My name is Viet Nguyen. I am a Senior AI engineer at Sporttotal. I am interested in the following topics: Deep Learning for Computer Vision, LLM, Reinforcement Learning.<br>
-## 📫 How to reach me: 
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)]   [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/diacode1919/) [![Youtube](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvudigital.co%2Flogo-youtube-lich-su-va-y-nghia-thu-vi-cua-nen-tang-phat-video-tu-2005.html&psig=AOvVaw2qk0hTNffazD_ZDs_rdTBq&ust=1754299544772000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODR4Jup7o4DFQAAAAAdAAAAABAE)]
+# 💫 About Me:
+My name is Tran An Quoc. I am a Software Engineer. Strong about Java.
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/blue99999999) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quoc-tran-54059135a) 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DiaCode1919&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DiaCode1919&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaCode1919&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<a href="https://github.com/vietnh1009/QuickDraw/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
-</a>    
-<a href="https://github.com/vietnh1009/ASCII-generator/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
-</a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
-</a>    
-<a href="https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
-</a>
+---
+[![](https://visitcount.itsvg.in/api?id=DiaCode1919&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://github.com/vietnh1009/Flappy-bird-deep-Q-learning-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
-</a>    
-<a href="https://github.com/vietnh1009/Tetris-deep-Q-learning-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
-</a>
-
-<a href="https://github.com/vietnh1009/AirGesture/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=AirGesture&theme=synthwave" />
-</a>    
-<a href="https://github.com/vietnh1009/Yolo-v2-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Yolo-v2-pytorch&theme=highcontrast" />
-</a>
-
-<a href="https://github.com/vietnh1009/Hierarchical-attention-networks-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Hierarchical-attention-networks-pytorch&theme=dracula" />
-</a>    
-<a href="https://github.com/vietnh1009/Photomosaic-generator/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Photomosaic-generator&theme=radical" />
-</a>
-
-<a href="https://github.com/vietnh1009/Street-fighter-A3C-ICM-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Street-fighter-A3C-ICM-pytorch&theme=merko" />
-</a>    
-<a href="https://github.com/vietnh1009/SSD-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=SSD-pytorch&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/vietnh1009/Contra-PPO-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Contra-PPO-pytorch&theme=dark" />
-</a>    
-<a href="https://github.com/vietnh1009/Deeplab-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Deeplab-pytorch&theme=onedark" />
-</a>
-
-<a href="https://github.com/vietnh1009/Character-level-cnn-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Character-level-cnn-pytorch&theme=cobalt" />
-</a>    
-<a href="https://github.com/vietnh1009/Character-level-cnn-tensorflow/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Character-level-cnn-tensorflow&theme=synthwave" />
-</a>
-
-<a href="https://github.com/vietnh1009/Very-deep-cnn-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Very-deep-cnn-pytorch&theme=highcontrast" />
-</a>    
-<a href="https://github.com/vietnh1009/Very-deep-cnn-tensorflow/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Very-deep-cnn-tensorflow&theme=dracula" />
-</a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
