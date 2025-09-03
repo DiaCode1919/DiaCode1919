@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Tran An Quoc (DiaCode)
+👋 Hi, I'm Tran An Quoc
 I'm a passionate Software Engineer, specializing in Java development. I enjoy building scalable, reliable systems and constantly improving my skills through real-world projects.
 
 
